@@ -4,6 +4,8 @@
 
 CRUD tasks with categories. Demonstrates: frontend, backend, API, database, containerization, CI/CD.
 
+**Live demo:** [https://demo-repo-iota-tawny.vercel.app](https://demo-repo-iota-tawny.vercel.app)
+
 ---
 
 ## Skills demonstrated
@@ -106,4 +108,4 @@ demo-repo/
 
 ---
 
-Demo by Serhiy | [Portfolio](https://...)
+Demo by Serhiy | [Live demo](https://demo-repo-iota-tawny.vercel.app) | [Portfolio](https://...)
